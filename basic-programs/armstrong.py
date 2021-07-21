@@ -8,10 +8,8 @@ def armstrong(n):
     temp = n
     while temp > 0:
         digit = temp % 10
-        print(digit)
         sum += digit ** order
         temp //= 10
-        print(temp)
 
     if sum == n:
         return True
