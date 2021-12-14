@@ -1,2 +1,2 @@
-# python-programming-questions
-Attempt different python programming questions
+# programming-questions
+Attempt different programming questions
